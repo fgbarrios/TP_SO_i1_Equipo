@@ -2,3 +2,10 @@ Cecilia Calanna, Enrique Mendioroz, Fernando Barrios.
 
 a- SI
 b- SI
+
+c) Cuando yo subi mis cambios, los demas integrantes del grupo los vieron. 
+d) Nos comunicamos por whatsapp (imagino que en un entorno mas profesional
+nos hubieramos comunicado por slack), tambien completando en la pestaña
+de projects dentro del mismo repo, donde podiamos decir que tarea estaba
+en curso o finalizada.
+
