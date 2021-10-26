@@ -9,3 +9,4 @@ nos hubieramos comunicado por slack), tambien completando en la pestaña
 de projects dentro del mismo repo, donde podiamos decir que tarea estaba
 en curso o finalizada.
 
+e) Con la solapa de projects en github
